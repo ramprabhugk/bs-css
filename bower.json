@@ -14,5 +14,9 @@
     "fonts/glyphicons-halflings-regular.woff2"
   ],
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "exportsOverride": {
+    "bs-css": {
+      "fonts": "fonts/*"
+    },
 }
