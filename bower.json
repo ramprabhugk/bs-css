@@ -6,7 +6,7 @@
   ],
   "description": "",
   "main": [
-    "css/bootstrap.css",
+    "css/bootstrap.css"
   ],
   "license": "MIT",
   "ignore": [
