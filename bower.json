@@ -6,15 +6,9 @@
   ],
   "description": "",
   "main": [
+    "js/bootstrap.js",
     "css/bootstrap.css"
   ],
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {}
 }
