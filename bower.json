@@ -1,0 +1,19 @@
+{
+  "name": "bs-css",
+  "homepage": "https://github.com/ramprabhugk/bs-css",
+  "authors": [
+    "ramprabhugk <ramprabhugk@gmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "css/bootstrap.css",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
