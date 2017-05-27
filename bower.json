@@ -7,7 +7,12 @@
   "description": "",
   "main": [
     "js/bootstrap.js",
-    "css/bootstrap.css"
+    "css/bootstrap.css",
+    "fonts/glyphicons-halflings-regular.eot",
+    "fonts/glyphicons-halflings-regular.svg",
+    "fonts/glyphicons-halflings-regular.ttf",
+    "fonts/glyphicons-halflings-regular.woff",
+    "fonts/glyphicons-halflings-regular.woff2"
   ],
   "license": "MIT",
   "dependencies": {},
